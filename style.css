@@ -1,0 +1,49 @@
+body{
+              font-family: "Krub", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.mu {
+              color: midnightblue;
+}
+.mui{
+              color: palevioletred;
+}
+.mia{
+              color: midnightblue;
+}
+.juju{
+              color: palevioletred;
+              
+}
+.table
+{
+              text-align: center;
+              width: 100%;
+              color:midnightblue;
+}
+.mumi
+{
+            color:midnightblue;
+}
+.n{
+              background-color: rgb(237, 167, 255);
+}
+.a{
+              background-color: rgb(237, 167, 255);
+}
+.m{
+              background-color:rgb(246, 246, 166) ;
+}
+.o{
+              background-color: rgb(250, 191, 211);
+}
+.s{
+              background-color: rgb(146, 252, 175);
+}
+.i{
+              background-color: rgb(247, 198, 165);
+}
+.j{
+              background-color:rgb(175, 238, 255);
+}
